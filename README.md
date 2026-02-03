@@ -30,9 +30,13 @@ The **Ising-LLM Benchmark** fills this gap by providing **32 layers of "biologic
 
 ---
 
-## The Dataset (Benchmarks)
+## 2. The Dataset (Benchmarks)
+Located in `/benchmarks/`.
 
-Located in `/benchmarks/deepseek_ising_dataset.zip`.
+**Note:** Due to GitHub file size limits, the dataset is split into two parts. You must download both and unzip them to access the full 32-layer suite.
+
+* `ising_benchmark_part1.zip`
+* `ising_benchmark_part2.zip`
 
 We mapped the weight matrices of **DeepSeek-R1-Distill-Llama-8B** to a 2D Ising Lattice with Hamiltonian $H = -J \sum_{\langle i,j \rangle} s_i s_j$ and annealed them to extract the **"Skeleton"** of the intelligence.
 
@@ -89,6 +93,7 @@ To prove these structures aren't just artifacts, we tested them on the LLM itsel
 
 **Conclusion:** The Ising clusters represent the **physical topology of logic**. Random pruning destroys reasoning; thermodynamic pruning preserves it.
 
+![Evidence of Logic](benchmarks/topology_plots/layer_31_ccdf_beast.png)
 ---
 
 ## Usage
