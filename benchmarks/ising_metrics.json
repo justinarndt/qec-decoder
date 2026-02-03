@@ -1,0 +1,194 @@
+{
+    "0": {
+        "sparsity": 0.6635318994522095,
+        "max_cluster_size": 8574,
+        "total_clusters": 423273,
+        "mean_cluster_size": 46.677891101015184
+    },
+    "1": {
+        "sparsity": 0.6604512929916382,
+        "max_cluster_size": 12453,
+        "total_clusters": 411075,
+        "mean_cluster_size": 48.50303715866934
+    },
+    "2": {
+        "sparsity": 0.6436653733253479,
+        "max_cluster_size": 14656,
+        "total_clusters": 387295,
+        "mean_cluster_size": 54.02615319072025
+    },
+    "3": {
+        "sparsity": 0.6544752717018127,
+        "max_cluster_size": 13020,
+        "total_clusters": 401807,
+        "mean_cluster_size": 50.49513572436518
+    },
+    "4": {
+        "sparsity": 0.6678751707077026,
+        "max_cluster_size": 10361,
+        "total_clusters": 422916,
+        "mean_cluster_size": 46.11425200276178
+    },
+    "5": {
+        "sparsity": 0.6669963598251343,
+        "max_cluster_size": 10068,
+        "total_clusters": 418696,
+        "mean_cluster_size": 46.70227802510652
+    },
+    "6": {
+        "sparsity": 0.6664648056030273,
+        "max_cluster_size": 10946,
+        "total_clusters": 416139,
+        "mean_cluster_size": 47.064257375540386
+    },
+    "7": {
+        "sparsity": 0.6751278638839722,
+        "max_cluster_size": 7793,
+        "total_clusters": 431156,
+        "mean_cluster_size": 44.245178079395856
+    },
+    "8": {
+        "sparsity": 0.6559802889823914,
+        "max_cluster_size": 11482,
+        "total_clusters": 403127,
+        "mean_cluster_size": 50.11057309483116
+    },
+    "9": {
+        "sparsity": 0.6754233241081238,
+        "max_cluster_size": 7907,
+        "total_clusters": 429137,
+        "mean_cluster_size": 44.412914756825906
+    },
+    "10": {
+        "sparsity": 0.6611396074295044,
+        "max_cluster_size": 16925,
+        "total_clusters": 407907,
+        "mean_cluster_size": 48.78065098171887
+    },
+    "11": {
+        "sparsity": 0.6695326566696167,
+        "max_cluster_size": 9451,
+        "total_clusters": 422383,
+        "mean_cluster_size": 45.942009976727284
+    },
+    "12": {
+        "sparsity": 0.6557130813598633,
+        "max_cluster_size": 29968,
+        "total_clusters": 405672,
+        "mean_cluster_size": 49.83488384704885
+    },
+    "13": {
+        "sparsity": 0.6597406268119812,
+        "max_cluster_size": 14809,
+        "total_clusters": 415575,
+        "mean_cluster_size": 48.0782458040065
+    },
+    "14": {
+        "sparsity": 0.6660865545272827,
+        "max_cluster_size": 12943,
+        "total_clusters": 423973,
+        "mean_cluster_size": 46.247006295212195
+    },
+    "15": {
+        "sparsity": 0.6558873653411865,
+        "max_cluster_size": 11310,
+        "total_clusters": 406461,
+        "mean_cluster_size": 49.71296385139042
+    },
+    "16": {
+        "sparsity": 0.674109697341919,
+        "max_cluster_size": 11800,
+        "total_clusters": 425729,
+        "mean_cluster_size": 44.94962992889843
+    },
+    "17": {
+        "sparsity": 0.660259485244751,
+        "max_cluster_size": 12868,
+        "total_clusters": 407751,
+        "mean_cluster_size": 48.92605536221861
+    },
+    "18": {
+        "sparsity": 0.6709818840026855,
+        "max_cluster_size": 10865,
+        "total_clusters": 425257,
+        "mean_cluster_size": 45.431416766802194
+    },
+    "19": {
+        "sparsity": 0.6541399955749512,
+        "max_cluster_size": 12103,
+        "total_clusters": 400360,
+        "mean_cluster_size": 50.72681336796883
+    },
+    "20": {
+        "sparsity": 0.6653243899345398,
+        "max_cluster_size": 9954,
+        "total_clusters": 413662,
+        "mean_cluster_size": 47.50795818808592
+    },
+    "21": {
+        "sparsity": 0.653668999671936,
+        "max_cluster_size": 12878,
+        "total_clusters": 395149,
+        "mean_cluster_size": 51.4657610167304
+    },
+    "22": {
+        "sparsity": 0.6644538640975952,
+        "max_cluster_size": 8706,
+        "total_clusters": 410817,
+        "mean_cluster_size": 47.96138913433475
+    },
+    "23": {
+        "sparsity": 0.6495296359062195,
+        "max_cluster_size": 11866,
+        "total_clusters": 391630,
+        "mean_cluster_size": 52.548852232975
+    },
+    "24": {
+        "sparsity": 0.6655738353729248,
+        "max_cluster_size": 10582,
+        "total_clusters": 411117,
+        "mean_cluster_size": 47.76642415662695
+    },
+    "25": {
+        "sparsity": 0.6677402257919312,
+        "max_cluster_size": 10128,
+        "total_clusters": 413153,
+        "mean_cluster_size": 47.223123152923975
+    },
+    "26": {
+        "sparsity": 0.6725581884384155,
+        "max_cluster_size": 8400,
+        "total_clusters": 422051,
+        "mean_cluster_size": 45.55720280250491
+    },
+    "27": {
+        "sparsity": 0.6643686294555664,
+        "max_cluster_size": 8519,
+        "total_clusters": 406102,
+        "mean_cluster_size": 48.530563749993846
+    },
+    "28": {
+        "sparsity": 0.6518573760986328,
+        "max_cluster_size": 14062,
+        "total_clusters": 395011,
+        "mean_cluster_size": 51.75305244664073
+    },
+    "29": {
+        "sparsity": 0.6730953454971313,
+        "max_cluster_size": 13498,
+        "total_clusters": 421950,
+        "mean_cluster_size": 45.493364142670934
+    },
+    "30": {
+        "sparsity": 0.6629052758216858,
+        "max_cluster_size": 13011,
+        "total_clusters": 405306,
+        "mean_cluster_size": 48.83788791678386
+    },
+    "31": {
+        "sparsity": 0.6767269372940063,
+        "max_cluster_size": 47428,
+        "total_clusters": 403745,
+        "mean_cluster_size": 47.01650299074911
+    }
+}
